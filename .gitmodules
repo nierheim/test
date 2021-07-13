@@ -1,0 +1,6 @@
+[submodule "themes/docsy"]
+	path = themes/docsy
+	url = https://e.coding.net/denalon/asset/docsy.git
+[submodule "content/share/pub"]
+	path = content/share/pub
+	url = https://e.coding.net/naralph/content/pub.git
